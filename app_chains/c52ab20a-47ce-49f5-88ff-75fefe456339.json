@@ -1,0 +1,8 @@
+{
+  "name": "bengbeng",
+  "logo": "https://twitter.com/chenyb_zz/photo",
+  "rpc_url": "http://62.171.179.110:9944",
+  "explorer_url": "http://62.171.179.110:4000",
+  "metrics_endpoint": "http://62.171.179.110:9615/metrics",
+  "id": "c52ab20a-47ce-49f5-88ff-75fefe456339"
+}
